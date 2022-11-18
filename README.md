@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Msc in Electrical Engineer and Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
+I am a Msc in Electrical Engineering and Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
 
 - :telescope: I'm doing a Phd in Electrical Engineering and contributing to artificial intelligent area.
 
