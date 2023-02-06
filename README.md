@@ -28,7 +28,7 @@
 I am a Msc in Electrical Engineering and Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
 -->
 
-- :sunglasses: I'm Jean Pierre and I'm passionate about Artifitial Inteligent. :man_student: I'm a PhD candidate in Electrical Engineer at the University of Campinas(UNICAMP) focus with focused on Data Modeling with Artificial Intelligent.
+- :sunglasses: I'm Jean Pierre and I'm passionate about Artifitial Inteligent. :man_student: I'm a PhD candidate in Electrical Engineer at the University of Campinas(UNICAMP) focused on Data Modeling with Artificial Intelligent.
 
 - :zap: In my free time, :muscle: I like to workout, :mountain_bicyclist: ride a bike, :tennis: play tennis, :airplane: discover new places. :seedling: I'm always learning something new.
 
