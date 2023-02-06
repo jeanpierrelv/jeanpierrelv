@@ -22,7 +22,6 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </h1>
 </div>
----
 
 ### :man_technologist: About Me :
 <!--
@@ -31,7 +30,7 @@ I am a Msc in Electrical Engineering and Developer <img src="https://media.giphy
 
 - :sunglasses: I'm Jean Pierre and I'm passionate about Artifitial Inteligent. :man_student: I'm a PhD candidate in Electrical Engineer at Unicamp in Modeling Data with artificial Intelligent. 
 
-- :zap: In my free time, I like to exercise outdoors :muscle:, :mountain_bicyclist: ride a bike, :tennis: play tennis, :airplane: discover new places. :seedling: I'm always learning something new.
+- :zap: In my free time, :muscle: I like to workout, :mountain_bicyclist: ride a bike, :tennis: play tennis, :airplane: discover new places. :seedling: I'm always learning something new.
 
 - :rocket: Check out my Portfolio for all of my projects.
 
