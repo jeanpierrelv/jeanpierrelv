@@ -63,7 +63,7 @@ I am a Msc in Electrical Engineering and Developer <img src="https://media.giphy
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post - Under construction](https://medium.com/@lopezvargasj)
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
