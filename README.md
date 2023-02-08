@@ -18,13 +18,16 @@ I am a Msc in Electrical Engineering and Developer <img src="https://media.giphy
 - :rocket: Check out my Portfolio for all of my projects.
 
 - :mailbox:How to reach me: 
-- 
+<div>
+<a href="https://www.linkedin.com/in/jean-pierre-lv/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+<!--
 <div id="header" align="center">
   <div id="badges">
   <a href="https://www.linkedin.com/in/jean-pierre-lv/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <!--
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -33,10 +36,9 @@ I am a Msc in Electrical Engineering and Developer <img src="https://media.giphy
   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=jeanpierrelv&style=flat-square&color=blue" alt=""/>
-  -->
-  </div>
+  
 </div>
-
+-->
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
