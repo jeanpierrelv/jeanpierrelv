@@ -18,6 +18,7 @@ I am a Msc in Electrical Engineering and Developer <img src="https://media.giphy
 - :rocket: Check out my Portfolio for all of my projects.
 
 - :mailbox:How to reach me: 
+- 
 <div id="header" align="center">
   <div id="badges">
   <a href="https://www.linkedin.com/in/jean-pierre-lv/">
@@ -33,6 +34,7 @@ I am a Msc in Electrical Engineering and Developer <img src="https://media.giphy
   </div>
   <img src="https://komarev.com/ghpvc/?username=jeanpierrelv&style=flat-square&color=blue" alt=""/>
   -->
+  </div>
 </div>
 
 ---
