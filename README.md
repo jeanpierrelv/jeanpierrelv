@@ -69,7 +69,7 @@ I am a Msc in Electrical Engineering and Developer <img src="https://media.giphy
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [MEDIUM](https://medium.com/@jeanpierre_lv)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
