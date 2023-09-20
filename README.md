@@ -56,9 +56,10 @@ I am a Msc in Electrical Engineering and Developer <img src="https://media.giphy
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<!--
 ---
 
-<!--### :fire: My Stats :
+### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeanpierrelv&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -69,7 +70,7 @@ I am a Msc in Electrical Engineering and Developer <img src="https://media.giphy
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [Medium Post](https://medium.com/@jeanpierre_lv)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
