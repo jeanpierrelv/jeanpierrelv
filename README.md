@@ -11,7 +11,7 @@
 I am a Msc in Electrical Engineering and Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
 -->
 
-- :sunglasses: I'm Jean Pierre and I'm passionate about Science, currently focused an IA Researcher in Prisma LAB at DEMAC - UNESP. :man_student: I'm a PhD candidate in Electrical Engineer at the University of Campinas(UNICAMP).
+- :sunglasses: I'm Jean Pierre and I'm passionate about Science and Technology, currently I'm doing IA Research at Prisma LAB at DEMAC - UNESP. :man_student: I'm a PhD candidate in Electrical Engineer at the University of Campinas(UNICAMP).
 
 - :zap: In my free time, :muscle: I like to workout, :mountain_bicyclist: ride a bike, :tennis: play tennis, :airplane: discover new places. :seedling: I'm always learning something new.
 
