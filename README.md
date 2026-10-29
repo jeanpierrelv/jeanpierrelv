@@ -3,12 +3,15 @@
 AI researcher and Substitute Professor at [UNESP](https://igce.rc.unesp.br/#!/demac) (Rio Claro, Brazil), working with the [Prisma Research Group](http://dgp.cnpq.br/dgp/espelhogrupo/9851379845566798). Originally from Perú :peru:.
 
 - :brain: I work on **computer vision with deep learning**, **3D tomographic image analysis**, and **large language models**.
+- :page_facing_up: Latest paper: [Self-Supervised Learning for Extracting Interpersonal Dynamics in Video Robbery Detection](https://dl.acm.org/doi/abs/10.1007/s42979-025-04600-2) (*SN Computer Science*, 2026).
+- :handshake: Open to research collaborations.
 - :zap: Outside work: :muscle: workouts, :mountain_bicyclist: cycling, :tennis: tennis, and :airplane: traveling.
 
 <a href="https://jeanpierrelv.github.io"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"/></a>
 <a href="https://scholar.google.com/citations?user=TC-UZDAAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
 <a href="https://www.linkedin.com/in/jean-pierre-lv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://medium.com/@jeanpierre_lv"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="mailto:jean.vargas@unesp.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 ### :hammer_and_wrench: Tools
 
