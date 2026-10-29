@@ -23,4 +23,8 @@ AI researcher and Substitute Professor at [UNESP](https://igce.rc.unesp.br/#!/de
 ### :writing_hand: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Copy Files from a Linux Server: A Beginner’s Guide](https://medium.com/@jeanpierre_lv/how-to-copy-files-from-a-linux-server-a-beginners-guide-f087629c1cd0?source=rss-f1ab38577bc4------2)
+- [Simplifying Document Comparison with “latexdiff”: A Quick Guide](https://medium.com/@jeanpierre_lv/simplifying-document-comparison-with-latexdiff-a-quick-guide-e8f5b81d1191?source=rss-f1ab38577bc4------2)
+- [Navigating the AI Landscape: Harnessing Tools for Research Advancement](https://medium.com/@jeanpierre_lv/navigating-the-ai-landscape-harnessing-tools-for-research-advancement-272b65c228e3?source=rss-f1ab38577bc4------2)
+- [Troubleshooting “libGL error: MESA-LOADER” on Ubuntu: A Quick Fix](https://medium.com/@jeanpierre_lv/troubleshooting-libgl-error-mesa-loader-on-ubuntu-a-quick-fix-c8ea5d1a10e4?source=rss-f1ab38577bc4------2)
 <!-- BLOG-POST-LIST:END -->
